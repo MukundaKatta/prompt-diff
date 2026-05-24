@@ -1,0 +1,2 @@
+[console_scripts]
+prompt-diff = prompt_diff.__main__:main

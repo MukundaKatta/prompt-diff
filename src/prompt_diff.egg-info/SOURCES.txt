@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/prompt_diff/__init__.py
+src/prompt_diff/__main__.py
+src/prompt_diff/core.py
+src/prompt_diff/py.typed
+src/prompt_diff.egg-info/PKG-INFO
+src/prompt_diff.egg-info/SOURCES.txt
+src/prompt_diff.egg-info/dependency_links.txt
+src/prompt_diff.egg-info/entry_points.txt
+src/prompt_diff.egg-info/requires.txt
+src/prompt_diff.egg-info/top_level.txt
+tests/test_diff.py
